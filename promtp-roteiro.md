@@ -8,25 +8,22 @@ em frontend
 
 O formato do roteiro deve ser:
 <br>
-[INTRODUÇÃO]
-<br>
-[CURIOSIDADE 1]
-<br>
-[CURIOSIDADE 2]
-<br>
-[FINALIZAÇÃO]
+- [INTRODUÇÃO]
+- [CURIOSIDADE 1]
+- [CURIOSIDADE 2]
+- [FINALIZAÇÃO]
 
 {REGRAS}
 
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
-- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de HTML
-- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Elisa e esse foi o espero que você goste do contéudo'
-- use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Elisa
-- O podcast deve ser curto
+> - No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan;
+> - No bloco [CURIOSIDADE 1] substitua por uma curiosidade de HTML;
+> - No bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends;
+> - No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Elisa e esse foi o espero que você goste do contéudo';
+> - Use termos de fácil explicação;
+> - O podcast vai ser apresentado somente por uma pessoa, chamada Elisa;
+> - O podcast deve ser curto.
 
 {REGRAS NEGATIVAS}
 
-- Não use muitos termos técnicos
-- Não ultrapasse 5 minutos de duração
+> - Não use muitos termos técnicos;
+> - Não ultrapasse 5 minutos de duração.
