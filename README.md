@@ -28,7 +28,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro dos links fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de título no `chagpt`
 - 🤖 2. Use os prompts de roteiro no `chagpt`
@@ -36,10 +36,7 @@ Utilize os prompts dentro do link fornecido na parte de `Materiais` para criar u
 - 🤖 4. Use os prompts de artes no `Lexica.Art`
 
 ## 👨‍💻 Audio
-<p align="center">
-    preview do podcast
+<p>
+O áudio do Podcast se encontra na pasta output.
 </p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+    
